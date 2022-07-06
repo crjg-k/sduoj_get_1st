@@ -26,7 +26,7 @@ pip install requests
 
 #### 问题反馈
 
-如有问题、疑惑，请联系邮箱：1916387818@qq.com 。
+如有问题、疑惑，请联系邮箱：crjg-k@qq.com 。
 
 #### 附
 
